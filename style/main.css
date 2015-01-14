@@ -429,7 +429,7 @@ hr {
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('../tile-sets/sig/shoes_4.jpg');
+    background: url('../tile-sets/sig/glass_1024.jpg');
     background-size: 130%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -470,7 +470,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 13px; } }
   .tile.tile-1024 .tile-inner {
-    background: url('../tile-sets/sig/flag_1024.jpg');
+    background: url('../tile-sets/sig/glass_1024.jpg');
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
